@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+easyocr
+streamlit
+opencv-python-headless
+numpy
+pandas
+Pillow
+mysql-connector-python
+phonenumbers
+rapidfuzz
+imagehash
+bcrypt

@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+cloud_secrets.toml
+dataset/
+*.csv
+*.png
+*.jpg
+*.jpeg
